@@ -8,6 +8,7 @@ namespace projekt1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Testing");
+            Console.WriteLine("ny version");
         }
     }
 }
